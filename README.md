@@ -23,4 +23,4 @@ The dataset consists of labeled images of car damages typically involved in insu
 - imblearn
 
 ##Reference:  
-![Ripik.AI HackFest: Unleashing AI Potential](https://datahack.analyticsvidhya.com/contest/ripikai-hackfest-unleashing-ai-potential/True/?utm_source=naukri_campaigns&utm_medium=email#About)
+[Ripik.AI HackFest: Unleashing AI Potential](https://datahack.analyticsvidhya.com/contest/ripikai-hackfest-unleashing-ai-potential/True/?utm_source=naukri_campaigns&utm_medium=email#About)
