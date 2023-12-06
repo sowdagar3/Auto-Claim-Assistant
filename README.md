@@ -6,7 +6,7 @@ This repository contains the machine learning project developed during the Hacka
 ## Project Objectives
 - To assist insurance companies in automating the damage assessment process.
 - To provide a fair, consistent, and swift insurance claim experience.
-- To reduce the time and cost of manual car damage inspection.
+- Mitigating financial losses stemming from exaggerated damage claims
 
 ## Problem Statement
 
