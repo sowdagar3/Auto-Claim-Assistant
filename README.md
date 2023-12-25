@@ -10,7 +10,7 @@ This repository contains the machine learning project developed during the Hacka
 
 ## Dataset
 The dataset consists of labeled images of car damages typically involved in insurance claims. The images are preprocessed and augmented to create a balanced dataset using SMOTE for training the machine learning model.  
-Class labels are  
+Class labels are
 **1.crack
 2.scratch
 3.tire flat
