@@ -9,7 +9,14 @@ This repository contains the machine learning project developed during the Hacka
 - Mitigating financial losses stemming from exaggerated damage claims
 
 ## Dataset
-The dataset consists of labeled images of car damages typically involved in insurance claims. The images are preprocessed and augmented to create a balanced dataset using SMOTE for training the machine learning model.
+The dataset consists of labeled images of car damages typically involved in insurance claims. The images are preprocessed and augmented to create a balanced dataset using SMOTE for training the machine learning model.Class labels are
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+
 
 ## Dependencies
 - Python 3.10
